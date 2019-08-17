@@ -1,0 +1,60 @@
+.center {
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.CN {
+  font-family:'Courier New', Courier, monospace;
+}
+
+body {
+  text-align:center;
+  font-family:'Courier New', Courier, monospace;
+  color: #7C7C7C;
+  background-color:#EDFFF7;
+}
+.ro {
+  transform:rotate(90deg);
+}
+.mini {
+  height: 500px;
+  width: 400px;
+}
+.small {
+  height: 300px;
+  width: 200px;
+}
+.navlogo{
+  height: 20px;
+  width: 20px;
+}
+
+a.nav {
+  text-decoration: none;
+}
+
+a.nav:visited,a.nav:link{
+color: #201733;
+}
+
+a.nav:hover,a.nav:active { 
+color: #FF706B;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.parent div {
+  display: inline;
+}
+
+.mheight{
+  max-width: 600px;
+  text-align:center;
+}
